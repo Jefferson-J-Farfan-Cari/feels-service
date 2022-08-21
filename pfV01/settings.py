@@ -41,8 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Third app
     'rest_framework',
-    'django_filters',
-    'simple_history',
     # My app
     'apps.service'
 ]
